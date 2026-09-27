@@ -1,4 +1,4 @@
 return {
-    Enabled = False,
+    Enabled = false,
     Key = "DEVIL_HUB_ACTIVE"
 }
