@@ -1,0 +1,4 @@
+return {
+    Enabled = true,
+    Key = "DEVIL_HUB_ACTIVE"
+}
